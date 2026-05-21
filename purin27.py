@@ -1,0 +1,7 @@
+print("purin")
+print("ภูรินทร์ สุดหล่อ อายุ16ปีครับบ")
+print("I like Football")
+print("ชอบกินน้ำใบเตยครับ")
+print("Good afternoon eiei")
+print("I love you so much")
+print("I am sorry na Youu")
