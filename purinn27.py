@@ -6,6 +6,6 @@ elif speed <= 100:
     print("เตือน")
 elif speed <= 120:
     print("เสี่ยงถูกปรับ")
-elif speed > 120:
+else:
     print("ผิดกฎหมาย - ปรับเงินทันที")
     
